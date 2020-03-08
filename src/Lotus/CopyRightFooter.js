@@ -18,7 +18,7 @@ const CopyRightFooter = () => {
       <div style={copyrightStyle}>
         <p>
           &copy; {new Date().getFullYear()}
-          All Right Reserved | Desinged and developed by
+          All Right Reserved | Created by
           <a href="http://yellow-website.com" style={weblink} >Yellow-Website.com</a>
         </p>
       </div>
